@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/selenium-api-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/selenium-chrome-driver-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files (1)/selenium-remote-driver-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jar_files/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/jcommander.jar/jcommander.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/selenium-chrome-driver-2.9.0-sources.jar/selenium-chrome-driver-2.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Downloads/testng-6.0.jar/testng-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/selenium-firefox-driver-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/allure-commons-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/allure-cucumber-jvm-adaptor-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/allure-helper-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/allure-java-adaptor-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/allure-java-annotations-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/allure-java-aspects-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/allure-model-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/annotations-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/aspectjrt-1.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/aspectjweaver-1.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/bcpkix-jdk15on-1.53.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/bcprov-jdk15on-1.47.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/browsermob-core-2.1.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/browsermob-core-littleproxy-2.1.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/classworlds-1.1-alpha-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/commons-validator-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/cucumber-runner-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/datajack-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/dnsjava-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/htmlelements-java-1.17-JAVA7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/jackson-annotations-2.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/jackson-core-2.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/jackson-databind-2.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/javassist-3.19.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/jaxb2-basics-runtime-0.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/jcl-over-slf4j-1.7.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/jsr305-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/jzlib-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/littleproxy-1.1.0-beta-bmp-10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/maven-artifact-2.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/maven-artifact-manager-2.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/maven-model-2.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/maven-plugin-registry-2.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/maven-profile-2.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/maven-project-2.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/maven-repository-metadata-2.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/maven-settings-2.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/mitm-2.1.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/mongo-java-driver-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/monte-media-1.1.0-JAVA7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/netty-all-4.0.33.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/page-factory-1.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/plexus-container-default-1.0-alpha-9-stable-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/plexus-interpolation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/plexus-utils-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/poi-3.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/poi-ooxml-3.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/poi-ooxml-schemas-3.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/properties-2.0.RC5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/qa-utils-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/quality-check-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/reflections-0.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/selenium-api-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/selenium-chrome-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/selenium-edge-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/selenium-firefox-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/selenium-ie-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/selenium-leg-rc-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/selenium-remote-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/selenium-safari-driver-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/selenium-support-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/slf4j-log4j12-1.7.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/spring-aop-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/spring-beans-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/spring-context-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/spring-core-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/spring-expression-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/tika-core-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/uadetector-core-0.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/uadetector-resources-2014.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/video-recorder-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/wagon-provider-api-1.0-beta-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/PageFactory_JAR/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Isal/Desktop/Project_Testing/testng-6.8-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

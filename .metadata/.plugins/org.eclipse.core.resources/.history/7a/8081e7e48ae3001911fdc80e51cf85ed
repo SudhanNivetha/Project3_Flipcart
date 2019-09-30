@@ -1,0 +1,38 @@
+package ChildPackage;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import ParenPackage.ParentClass;
+
+public class LoginChildClass extends ParentClass
+{
+	@FindBy(xpath="//button[@class='btn btn-default    ']")
+	WebElement login_btn;
+	@FindBy(xpath="//input[@id='txt_login_email']")
+	WebElement email;
+	@FindBy(xpath="//input[@id='txt_login_password']")
+	WebElement pass;
+	@FindBy(xpath="//input[@id='btn btn-primary']")
+	WebElement login_1;
+	public LoginPage()
+	{
+		PageFactory.initElements(driver, this);
+	}
+	public void clickLogin()
+	{
+		login_btn.click();
+	}
+	public void popup()
+	{
+		if(driver.switchTo().frame("notification-frame-22a337308")==null)
+		{
+		driver.findElement(By.xpath("//*[@class='close']")).click();
+		}
+	}
+	public void loginButtonclick(String email1,String pass1)
+	{
+	
+	}
+
+}

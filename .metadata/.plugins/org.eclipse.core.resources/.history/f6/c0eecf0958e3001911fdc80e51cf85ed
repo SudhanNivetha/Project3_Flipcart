@@ -1,0 +1,5 @@
+package ParenPackage;
+
+public class ParentClass {
+
+}

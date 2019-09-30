@@ -1,0 +1,30 @@
+package ParenPackage;
+
+import java.util.Properties;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class ParentClass 
+{
+	static WebDriver driver;
+	static Properties prop;
+	public void initialization()
+{
+		String browser;
+	if (browser='chrome')
+	{
+		System.setProperty("webdriver.chrome.driver","C:/Users/Isal/Desktop/Project_Testing/chromedriver.exe");
+	    driver = new ChromeDriver();
+	    
+	}
+	else
+	{
+		System.setProperty("webdriver.gecko.driver","C:/Users/Isal/Desktop/Project_Testing/chromedriver.exe");
+	    driver = new ChromeDriver();
+	    
+	}
+    	
+    
+}
+}
